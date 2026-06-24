@@ -40,11 +40,15 @@ Vehicle telemetry availability depends on vehicle manufacturer support.
 
 ## Documentation
 
-* Privacy Policy
-* Terms of Use
-* Support Information
+🌐 Website:
+https://issarg710.github.io/drivedeck-legal/
 
-Available through the project website.
+📄 Privacy Policy:
+https://issarg710.github.io/drivedeck-legal/privacy.html
+
+🛟 Support:
+https://issarg710.github.io/drivedeck-legal/support.html
+
 
 ## Status
 
