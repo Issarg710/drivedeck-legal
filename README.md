@@ -1,11 +1,11 @@
-# DriveDeck
+# DriveDome
 
 
 ![Platform](https://img.shields.io/badge/iOS-18+-black) ![Status](https://img.shields.io/badge/Status-Active_Development-blue) ![Release](https://img.shields.io/badge/Release-TestFlight_Preparation-orange) ![Privacy](https://img.shields.io/badge/Privacy-Local_First-green) ![OBD](https://img.shields.io/badge/OBD-ELM327_Compatible-red)
 
-DriveDeck is an iPhone application that transforms vehicle telemetry into a modern digital driving experience.
+DriveDome is an iPhone application that transforms vehicle telemetry into a modern digital driving experience.
 
-Built with a privacy-first approach, DriveDeck combines real-time vehicle data, trip tracking and driving insights into a clean automotive-inspired dashboard.
+Built with a privacy-first approach, DriveDome combines real-time vehicle data, trip tracking and driving insights into a clean automotive-inspired dashboard.
 
 ## Key Features
 
@@ -20,7 +20,7 @@ Built with a privacy-first approach, DriveDeck combines real-time vehicle data, 
 
 ## Privacy First
 
-DriveDeck is designed around a local-first architecture.
+DriveDome is designed around a local-first architecture.
 
 * No user accounts
 * No cloud backend
@@ -32,7 +32,7 @@ Your vehicle and trip data remain on your device.
 
 ## Compatibility
 
-DriveDeck is designed for modern iPhone devices running iOS.
+DriveDome is designed for modern iPhone devices running iOS.
 
 Many advanced features require a compatible ELM327 Bluetooth OBD adapter.
 
@@ -52,13 +52,13 @@ https://issarg710.github.io/drivedeck-legal/support.html
 
 ## Status
 
-DriveDeck is currently in active development and is being prepared for TestFlight release.
+DriveDome is currently in active development and is being prepared for TestFlight release.
 
 Features, compatibility and user interface may change before public release.
 
 ## Disclaimer
 
-DriveDeck is intended for informational purposes only.
+DriveDome is intended for informational purposes only.
 
 Drivers must remain attentive to the road and comply with all applicable traffic laws. Vehicle telemetry and analytics should never be considered safety-critical information.
 
